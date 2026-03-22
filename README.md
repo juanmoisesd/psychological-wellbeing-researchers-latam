@@ -1,2 +1,94 @@
-# psychological-wellbeing-researchers-latam
-Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/KZMR7C
+# Psychological Wellbeing in Researchers and University Students Dashboard
+
+[![Collection DOI](https://img.shields.io/badge/Collection_DOI-10.5281%2Fzenodo.19145316-blue?logo=zenodo)](https://doi.org/10.5281/zenodo.19145316)
+[![Author](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green?logo=orcid)](https://orcid.org/0000-0002-8401-8018)
+
+> Part of the **[Open Research Collection by Juan Moisés de la Serna Tuya](https://doi.org/10.5281/zenodo.19145316)** — 1,273+ datasets | DOI: 10.5281/zenodo.19145316
+>
+> [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green)](https://orcid.org/0000-0002-8401-8018)
+> [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/)
+> [![Pages](https://img.shields.io/badge/Live-Dashboard-brightgreen)](https://juanmoisesd.github.io/psychological-wellbeing-researchers-latam/)
+> [![DOI](https://img.shields.io/badge/DOI-10.7910/DVN/KZMR7C-blue)](https://doi.org/10.7910/DVN/KZMR7C)
+>
+> ## Overview
+>
+> Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/KZMR7C
+>
+> ## 🌐 Live Dashboard
+>
+> **[Open Interactive Dashboard](https://juanmoisesd.github.io/psychological-wellbeing-researchers-latam/)**
+>
+> ## Resources
+>
+> | Resource | Link |
+> |---|---|
+| Dataset DOI | [doi.org/10.7910/DVN/KZMR7C](https://doi.org/10.7910/DVN/KZMR7C) |
+> | Author | [juanmoisesdelaserna.es](https://juanmoisesdelaserna.es) |
+> | ORCID | [0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018) |
+>
+> ## How to Cite
+>
+> > de la Serna Tuya, J.M. (2026). *Psychological Wellbeing in Researchers and University Students Dashboard*. GitHub. https://github.com/juanmoisesd/psychological-wellbeing-researchers-latam
+> >
+> > Also cite the dataset: https://doi.org/10.7910/DVN/KZMR7C
+> >
+> > ## Author
+> >
+> > **Juan Moisés de la Serna Tuya**
+> > Universidad Internacional de La Rioja (UNIR)
+> > [juanmoisesdelaserna.es](https://juanmoisesdelaserna.es) · juanmoises.delaserna@unir.net
+> > ORCID: [0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018)
+> >
+> > ## License
+> >
+> > [CC0 1.0 Universal](LICENSE) — Public Domain Dedication.
+> >
+> > ## Dataset Status
+> >
+> > | Field | Value |
+> > |---|---|
+> > | Status | 🟢 Published |
+> > | DOI | [10.7910/DVN/KZMR7C](https://doi.org/10.7910/DVN/KZMR7C) |
+> > | Last update | 2026-03-21 |
+> > | License | CC0 1.0 |
+> >
+> > ---
+> >
+> > ## Citation / Cite This Repository
+> >
+> > [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green?logo=orcid)](https://orcid.org/0000-0002-8401-8018)
+> > [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanmoisesdelaserna-blue?logo=linkedin)](https://www.linkedin.com/in/juanmoisesdelaserna/)
+> > [![Scopus](https://img.shields.io/badge/Scopus-26632846700-orange)](https://www.scopus.com/authid/detail.uri?authorId=26632846700)
+> >
+> > If you use this repository in your research, please cite:
+> >
+> > **APA 7**
+> > > De la Serna Tuya, J. M. (2026). *Psychological Wellbeing in Researchers and University Students (2019-2024): Academic Stress, Burnout, Career Satisfaction and Institutional Support. DOI: 10.7910/DVN/KZMR7C* [Dataset]. GitHub. https://github.com/juanmoisesd/psychological-wellbeing-researchers-latam
+> > >
+> > > **BibTeX**
+> > > ```bibtex
+> > > @dataset{delaserna2026_psychological_wellbeing_researchers,
+> > >   author = {De la Serna Tuya, Juan Moisés},
+> > >   title = {Psychological Wellbeing in Researchers and University Students (2019-2024). DOI: 10.7910/DVN/KZMR7C},
+> > >   year = {2026},
+> > >   publisher = {GitHub},
+> > >   url = {https://github.com/juanmoisesd/psychological-wellbeing-researchers-latam},
+> > >   note = {ORCID: 0000-0002-8401-8018}
+> > > }
+> > > ```
+> > >
+> > > ### About the Author
+> > >
+> > > **Juan Moisés de la Serna Tuya** | Neuroeconomista forense | IA antifraude | UNIR
+> > >
+> > > | ID | Link |
+> > > |----|------|
+> > > | ORCID | [0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018) |
+> > > | LinkedIn | [juanmoisesdelaserna](https://www.linkedin.com/in/juanmoisesdelaserna/) |
+> > > | Scopus | [26632846700](https://www.scopus.com/authid/detail.uri?authorId=26632846700) |
+> > > | ResearcherID | [M-8296-2019](https://www.webofscience.com/wos/author/record/M-8296-2019) |
+> > > | ResearchGate | [Juan_De_La_Serna_Tuya](https://www.researchgate.net/profile/Juan_De_La_Serna_Tuya) |
+> > >
+> > > > 290+ scientific works · 500+ DOIs · 90+ open datasets · Top 1% Academia.edu
+> > > >
+> > > > See also: [ABOUT_THE_AUTHOR.md](./ABOUT_THE_AUTHOR.md) · [CITATION_GUIDE.md](./CITATION_GUIDE.md) · [GLOSSARY.md](./GLOSSARY.md)
